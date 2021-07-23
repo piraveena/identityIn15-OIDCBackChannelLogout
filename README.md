@@ -1,1 +1,1 @@
-# oidc-bclogout-samples
+# OpenID Connect Back-channel logout samples
